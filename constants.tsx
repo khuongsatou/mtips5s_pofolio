@@ -44,7 +44,7 @@ export const PRODUCTS: Product[] = [
     {
         name: 'One Click Whisk Pro',
         description: 'Tự động hóa cho Whisk AI / Flow AI. Giải pháp tối ưu quy trình sáng tạo.',
-        logoUrl: 'https://1nutnhan.com/assets/public/oneclick_logo.png',
+        logoUrl: 'https://tools.1nutnhan.com/public/oneclick_logo.png',
         link: 'https://chromewebstore.google.com/detail/lcpkplaadgbcfhoacgaddlcfkccoiepg?utm_source=item-share-cb'
     }
 ];

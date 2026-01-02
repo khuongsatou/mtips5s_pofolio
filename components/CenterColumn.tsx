@@ -52,7 +52,7 @@ const CenterColumn: React.FC = () => {
                     <div className="group relative aspect-square bg-white rounded-xl overflow-hidden p-2 flex flex-col items-center justify-center cursor-pointer">
                         <div className="absolute inset-0 bg-blue-600/10 group-hover:bg-blue-600/20 transition-colors" />
                         <img 
-                            src="https://1nutnhan.com/assets/public/mb.jpg" 
+                            src="https://tools.1nutnhan.com/public/mb.jpg" 
                             alt="MB Bank" 
                             className="w-full h-full object-contain mix-blend-multiply" 
                         />
@@ -63,7 +63,7 @@ const CenterColumn: React.FC = () => {
                     <div className="group relative aspect-square bg-white rounded-xl overflow-hidden p-2 flex flex-col items-center justify-center cursor-pointer">
                         <div className="absolute inset-0 bg-pink-600/10 group-hover:bg-pink-600/20 transition-colors" />
                         <img 
-                            src="https://1nutnhan.com/assets/public/momo.jpg" 
+                            src="https://tools.1nutnhan.com/public/momo.jpg" 
                             alt="Momo" 
                             className="w-full h-full object-contain mix-blend-multiply" 
                         />
