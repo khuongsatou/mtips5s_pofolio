@@ -30,7 +30,7 @@ const ProfileColumn: React.FC = () => {
                         {/* Glow behind avatar */}
                         <div className="absolute inset-[-4px] bg-gradient-to-br from-cyan-400 to-magenta-500 rounded-2xl blur-md opacity-60 animate-pulse-glow" />
                         <img 
-                            src="./assets/public/avatar.png" 
+                            src="https://1nutnhan.com/assets/public/avatar.png" 
                             alt="Avatar" 
                             className="w-full h-full object-cover rounded-2xl relative z-10 border-2 border-white/10"
                         />
